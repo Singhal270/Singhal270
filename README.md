@@ -1,9 +1,11 @@
+![gif](https://github.com/Singhal270/Singhal270/assets/65280321/f540ef46-0830-4665-985c-f51a12a1fec1)
+
 <h1 align="center">Hi 👋, I'm Mohit Singhal</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhal270&label=Profile%20views&color=0e75b6&style=flat" alt="singhal270" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhal270" alt="singhal270" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/_mohitsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghal?logo=twitter&style=for-the-badge" alt="_mohitsinghal" /></a> </p>
 
