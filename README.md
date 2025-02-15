@@ -9,17 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/_mohitsinghal" target="blank"><img src="https://img.shields.io/twitter/follow/_mohitsinghal?logo=twitter&style=for-the-badge" alt="_mohitsinghal" /></a> </p>
 
-- 🔭 I’m currently working at **Backend Development with Golang**
+- 🔭 I’m currently working as **Backend Development**
 
-- 🌱 I’m currently learning **advanced Golang, AWS, Kubernetes**
-
-- 👯 I’m looking to collaborate on **Golang backend projects**
+- 🌱 I’m currently learning **python, djano, LLM, microservice, AWS, Kubernetes, Docker**
 
 - 💬 Ask me about **backend development**
 
 - 📫 How to reach me **code60448@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sPo0G5p_nC1SqcB8LEthj6yt6oySwKda/view](https://drive.google.com/file/d/1sPo0G5p_nC1SqcB8LEthj6yt6oySwKda/view)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1sPo0G5p_nC1SqcB8LEthj6yt6oySwKda/view](https://drive.google.com/file/d/1aZArmdelECfEz5qKKLVUrcRvp-erPX8y/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
