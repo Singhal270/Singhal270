@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **code60448@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sPo0G5p_nC1SqcB8LEthj6yt6oySwKda/view](https://drive.google.com/file/d/1aZArmdelECfEz5qKKLVUrcRvp-erPX8y/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aZArmdelECfEz5qKKLVUrcRvp-erPX8y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
