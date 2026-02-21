@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **python, djano, LLM, microservice, AWS, Kubernetes, Docker**
 
-- 💬 Ask me about **backend development**
+- 💬 Ask me about **backend development and AI**
 
 - 📫 How to reach me **code60448@gmail.com**
 
